@@ -7,6 +7,7 @@
     <title>Inicio</title>
 </head>
 <body>
-    <h1>Esta es una prueba</h1>
+    <h1>Esta es una prueba de github</h1>
+
 </body>
 </html>
