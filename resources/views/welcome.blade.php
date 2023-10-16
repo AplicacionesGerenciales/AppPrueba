@@ -7,7 +7,8 @@
     <title>Inicio</title>
 </head>
 <body>
-    <h1>Esta es una prueba de archivo nuevo</h1>
+    <h1>Esta es una prueba sobre el mismo documento</h1>
+
 
 </body>
 </html>
