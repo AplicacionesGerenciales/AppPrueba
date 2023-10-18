@@ -10,6 +10,7 @@
     <h1>Esta es una prueba de archivo nuevo</h1>
     <h2>Esta es una prueba de github</h2>
     <h1>Esta es una prueba sobre el mismo documento</h1>
+    <h1>Esta es una de nueva rama</h1>
 
 
 </body>
